@@ -12,3 +12,12 @@ folha.uol.com.br###top-signup-close-bf
 folha.uol.com.br###c-top-signup
 folha.uol.com.br##.c-notification-link-app
 folha.uol.com.br##.c-push-notification
+! Infomoney
+!  - Remove tela pedindo para se inscrever na newsletter
+!  - Remove as animações de carga que nunca são removidas por serem de anúncios
+www.infomoney.com.br##.ReactModalPortal
+www.infomoney.com.br##.animate-duration-500
+! Valor
+!  - Remove os buracos causados pelas propagandas removidas
+valor.globo.com##.grid-container.valor__main > div.ads-container
+valor.globo.com##div.ads-container
